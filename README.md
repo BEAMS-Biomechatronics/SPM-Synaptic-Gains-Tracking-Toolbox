@@ -4,6 +4,7 @@ SGTT, a SPM EEG synaptic gains tracking toolbox, allows to
 2. compute four synaptic gain ratios (excitatory/slow inhibitory Ae/B, excitatory/fast inhibitory Ae/G, excitatory/(slow + fast) inhibitory Ae/(B+G), and slow/fast inhibitory ratio B/G, and smooth them using moving average filter;
 3. display the path to epilepsy through the synaptic gain space.
 
+More information in the Manual.pdf
 The method is described in [Fan2018a] and [Fan2018b].
 
 
